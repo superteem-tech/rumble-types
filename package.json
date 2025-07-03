@@ -1,6 +1,6 @@
 {
   "name": "rumble-types",
-  "version": "1.14.13-0",
+  "version": "1.14.13-1",
   "apiVersion": "1.14.13",
   "main": "index.ts",
   "type": "module",
